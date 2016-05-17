@@ -1,4 +1,4 @@
-local token = "191805318:AAG0JnTJyj5JV_iiQYdo-v6RBG_wA8Y2NSU";
+local token = ""; --Token to Bot "here"
 
 local bot, events = require("api").configure(token);
 
